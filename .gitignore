@@ -1,0 +1,11 @@
+# Java / build
+*.class
+bin/
+out/
+target/
+*.log
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
