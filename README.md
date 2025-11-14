@@ -111,6 +111,6 @@ Add emojis support
 
 ---
 
-#🙋 Author
+# 🙋 Author
 
 Mangesh Bedre.
